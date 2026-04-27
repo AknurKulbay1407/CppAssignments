@@ -60,4 +60,32 @@ add_executable(untitled
         assignment2/task9.h
         assignment2/task10.cpp
         assignment2/task10.h
+        test.cpp
+        test.h
+        assignment3/task1.cpp
+        assignment3/task1.h
+        assignment3/task2.cpp
+        assignment3/task2.h
+        assignment3/practice.cpp
+        assignment3/practice.h
+        assignment3/task3.cpp
+        assignment3/task3.h
+        assignment3/task4.cpp
+        assignment3/task4.h
+        assignment3/task5.cpp
+        assignment3/task5.h
+        assignment3/task6.cpp
+        assignment3/task6.h
+        assignment3/task7.cpp
+        assignment3/task7.h
+        assignment3/task8.cpp
+        assignment3/task8.h
+        assignment3/task9.cpp
+        assignment3/task9.h
+        assignment3/task10.cpp
+        assignment3/task10.h
+        assignment3/task11.cpp
+        assignment3/task11.h
+        assignment3/task12.cpp
+        assignment3/task12.h
 )

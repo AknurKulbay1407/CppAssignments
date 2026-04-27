@@ -6,7 +6,7 @@ struct Node {
     Node* next;
 };
 
-bool search(Node* head, int target) {
+bool sfawtde(Node* head, int target) {
     Node* temp = head;
     while (temp != nullptr) {
         if (temp->data == target) return true;
@@ -17,6 +17,6 @@ bool search(Node* head, int target) {
 
 int main() {
     Node* head = new Node{5, new Node{10, new Node{15, nullptr}}};
-    if (search(head, 10)) cout << "Found" << endl;
+    if (sfawtde(head, 10)) cout << "Found" << endl;
     return 0;
 }
